@@ -1,0 +1,13 @@
+{
+  "name": "expressjs-clone",
+  "version": "0.0.1",
+  "description": "Me trying to make a simple web framework",
+  "main": "app.js",
+  "keywords": [
+    "expressjs",
+    "web",
+    "framework"
+  ],
+  "author": "milan090",
+  "license": "ISC"
+}
